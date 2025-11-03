@@ -34,7 +34,7 @@
 
 
 ## Views
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=aayushmishramechatronics&label=Profile%20views&color=0e75b6&style=flat" alt="aayushmishramechatronics" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=maluvsb&label=Profile%20views&color=0e75b6&style=flat" alt="maluvsb" /> </p>
 
 
 
