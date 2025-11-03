@@ -7,6 +7,9 @@
 - 😻 Have a cat named Lili (alias 'gôda'), who is very fluffy and loves to eat.
 
 
+
 ## Tools and Technologies
 
+
+<img loading="lazy" src="devicon-githubcodespaces-plain" width="40" height="40"/>
  <i class="devicon-githubcodespaces-plain"></i>
