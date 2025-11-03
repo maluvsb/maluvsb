@@ -4,7 +4,7 @@
 
 - 🚀 I am pursuing an MBA in Product Management, while studying Python for Data Science.
 
-- 😻 Have a cat named Lili (alias 'gôda'), who is very fluffy and loves to eat.
+- 😻 Have a cat named Lili ('gôda'), who is very fluffy and loves to eat.
 
 
 <br/>
