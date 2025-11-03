@@ -24,16 +24,12 @@
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 <br/>
+
 ## Metrics
 
 <div>
 <a href="https://github.com/maluvsb">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=maluvsb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maluvsb&layout=compact&langs_count=7&theme=dracula"/>
-
-
-
-## Views
-
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aayushmishramechatronics&label=Profile%20views&color=0e75b6&style=flat" alt="aayushmishramechatronics" /> </p>
