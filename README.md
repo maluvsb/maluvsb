@@ -31,8 +31,3 @@
 <a href="https://github.com/maluvsb">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=maluvsb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maluvsb&layout=compact&langs_count=7&theme=dracula"/>
-
-
-
-## Views
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=maluvsb&label=Profile%20views&color=0e75b6&style=flat" alt="maluvsb" /> </p>
