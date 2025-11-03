@@ -5,3 +5,8 @@
 - 🚀 I am pursuing an MBA in Product Management, while studying Python for Data Science.
 
 - 😻 Have a cat named Lili (alias 'gôda'), who is very fluffy and loves to eat.
+
+
+## Tools and Technologies
+
+ <i class="devicon-githubcodespaces-plain"></i>
