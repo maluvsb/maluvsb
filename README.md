@@ -1,4 +1,4 @@
-# Hi there 👋
+## Hi there 👋
 
 - 🙋‍♀️ My name is Maria Luiza, but everyone calls me Malu.
 
@@ -33,11 +33,17 @@
 
 
 
-
-
-
 ## Views
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=aayushmishramechatronics&label=Profile%20views&color=0e75b6&style=flat" alt="aayushmishramechatronics" /> </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=aayushmishramechatronics&show_icons=true&theme=github_dark&hide=issues&count_private=true" width="50%" />
-</div>
 
+
+
+
+
+
+
+
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=aayushmishramechatronics&label=Profile%20views&color=0e75b6&style=flat" alt="aayushmishramechatronics" /> </p>
