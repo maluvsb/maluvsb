@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 - 🙋‍♀️ My name is Maria Luiza, but everyone calls me Malu.
 
@@ -7,12 +7,13 @@
 - 😻 Have a cat named Lili (alias 'gôda'), who is very fluffy and loves to eat.
 
 
-
+<br/>
 ## Tools and Technologies
 
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="60" height="60"/>   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" width="60" height="60"/>   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" width="60" height="60"/>   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="60" height="60"/>   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="60" height="60"/>
 
+<br/>
 ## Contacts:
 
 <div>
@@ -22,25 +23,21 @@
 <a href = "mailto:contato@seu-usuário-aqui"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
-
-
-
-
-
-
-
-
-
-
-# Views
-
-<img src="https://github-readme-stats.vercel.app/api?username=aayushmishramechatronics&show_icons=true&theme=github_dark&hide=issues&count_private=true" width="50%" />
+<br/>
 ## Metrics
 
 <div>
 <a href="https://github.com/maluvsb">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=maluvsb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maluvsb&layout=compact&langs_count=7&theme=dracula"/>
+
+
+
+
+
+
+## Views
+
+<img src="https://github-readme-stats.vercel.app/api?username=aayushmishramechatronics&show_icons=true&theme=github_dark&hide=issues&count_private=true" width="50%" />
 </div>
 
